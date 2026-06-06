@@ -1,0 +1,6 @@
+{
+  "name": "Luz da Aurora",
+  "description": "Um portal de acolhimento e autocuidado para mulheres, inspirado na canção 'Você Também Merece Cuidado'. Encontre descanso, respirações guiadas, um diário terapêutico e cartas de reconexão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
